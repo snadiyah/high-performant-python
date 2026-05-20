@@ -1,0 +1,26 @@
+id,name,email,phone,country,salary,department,join_date
+1,Alice Johnson,alice.johnson@mail.com,+60123456789,Malaysia,5200,Engineering,2021-03-15
+2,Bob Smith,bob.smith@mail.com,+60198765432,Malaysia,4800,Marketing,2020-07-22
+3,Charlie Tan,charlie.tan@mail.com,+60112233445,Singapore,7100,Engineering,2019-11-01
+4,Diana Lee,diana.lee@mail.com,+60155566778,Malaysia,6300,Finance,2022-01-10
+5,Edward Wong,edward.wong@mail.com,+60177889900,Singapore,5500,HR,2021-09-05
+6,Fatimah Binti Ali,fatimah.ali@mail.com,+60133221100,Malaysia,4900,Marketing,2020-03-18
+7,George Lim,george.lim@mail.com,+60144332211,Malaysia,8200,Engineering,2018-06-30
+8,Hannah Ng,hannah.ng@mail.com,+60166554433,Singapore,6700,Finance,2021-12-20
+9,Ivan Petrov,ivan.petrov@mail.com,+60188776655,Malaysia,5100,HR,2022-04-14
+10,Julia Santos,julia.santos@mail.com,+60199887766,Malaysia,7400,Engineering,2019-08-25
+11,Kevin Chong,kevin.chong@mail.com,+60121122334,Singapore,4600,Marketing,2023-01-03
+12,Linda Yusof,linda.yusof@mail.com,+60143344556,Malaysia,5800,Finance,2020-10-11
+13,Michael Park,michael.park@mail.com,+60165566778,Malaysia,6900,Engineering,2017-05-19
+14,Nurul Ain,nurul.ain@mail.com,+60187788990,Malaysia,5300,HR,2022-07-28
+15,Oscar Hernandez,oscar.hernandez@mail.com,+60109900112,Singapore,7800,Engineering,2018-02-14
+16,Priya Nair,priya.nair@mail.com,+60131122334,Malaysia,6100,Finance,2021-06-09
+17,Qasim Malik,qasim.malik@mail.com,+60153344556,Malaysia,4700,Marketing,2023-03-22
+18,Rachel Ong,rachel.ong@mail.com,+60175566778,Singapore,8500,Engineering,2016-11-30
+19,Samuel Tan,samuel.tan@mail.com,+60197788990,Malaysia,5600,HR,2022-09-16
+20,Teresa Lim,teresa.lim@mail.com,+60119900112,Malaysia,6400,Finance,2020-01-07
+21,Umar Faruq,umar.faruq@mail.com,+60141122334,Malaysia,5900,Engineering,2021-04-23
+22,Vivian Ho,vivian.ho@mail.com,+60163344556,Singapore,7200,Marketing,2019-07-18
+23,William Razak,william.razak@mail.com,+60185566778,Malaysia,6600,Finance,2020-12-04
+24,Xiao Ming,xiao.ming@mail.com,+60107788990,Malaysia,5400,HR,2022-02-28
+25,Yasmin Zainudin,yasmin.zainudin@mail.com,+60129900112,Malaysia,7600,Engineering,2018-09-13
